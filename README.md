@@ -10,4 +10,5 @@ How to run
 6. A browser will be automatically opened.
 
 Tips
-I suggest to open use Network URL that show in terminal, then open with Incognito mode
+
+I suggest to open a website using Network URL that show in terminal, then open with Incognito mode
